@@ -1,11 +1,4 @@
-'''
-Author: your name
-Date: 2021-07-30 14:14:24
-LastEditTime: 2021-07-30 19:20:48
-LastEditors: your name
-Description: In User Settings Edit
-FilePath: /fangyin/contrastive-graph/model/loss/loss_computer.py
-'''
+
 import torch.nn as nn
 import torch
 import logging
