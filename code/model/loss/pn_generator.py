@@ -1,11 +1,4 @@
-'''
-Author: your name
-Date: 2021-07-30 14:14:24
-LastEditTime: 2021-07-30 14:43:26
-LastEditors: your name
-Description: In User Settings Edit
-FilePath: /fangyin/contrastive-graph/model/loss/pn_generator.py
-'''
+
 import torch.nn as nn
 import torch
 from torch.autograd import Variable
